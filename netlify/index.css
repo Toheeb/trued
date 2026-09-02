@@ -1,20 +1,20 @@
 
 @font-face {
-  font-family: 'Insfigmar';
+  font-family: '_Insfigmar';
   src: url('/_assets/fonts/insfigmar.woff2') format('woff2');
   font-weight: 300 900; 
   font-style: normal;      
 }
 
 @font-face {
-  font-family: 'Lorepujet';
+  font-family: '_Lorepujet';
   src: url('/_assets/fonts/lorepujet.woff2') format('woff2');
   font-weight: 300 900; 
   font-style: normal;      
 }
 
 @font-face {
-  font-family: 'Gooplasom';
+  font-family: '_Gooplasom';
   src: url('/_assets/fonts/gooplasom.woff2') format('woff2');
   font-weight: 300 900; 
   font-style: normal;      
@@ -50,7 +50,7 @@
 
 
 @font-face {
-  font-family: 'Cavwinsom';
+  font-family: '_Cavwinsom';
   src: url('/_assets/fonts/cavwinsom.woff2') format('woff2');
   font-weight: 300 900; 
   font-style: normal;      
@@ -65,7 +65,7 @@ html {
   --line-length: 80rem;
   --line-height: 1.5;
 
-  font-family: 'Insfigmar', sans-serif;
+  font-family: '_Insfigmar', sans-serif;
 }
 
 select::picker-icon {
